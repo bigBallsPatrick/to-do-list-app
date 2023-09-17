@@ -1,0 +1,51 @@
+body {
+    background-image: url(/ToDoList/Bez\ nazwy-1.png);
+    background-size: 75%;
+}
+.todosPanel {
+    position: absolute;
+    top: 70px;
+    left: 630px;
+    width: 650px;
+    height: 85%;
+    border: 2px solid #828a9e;
+    border-radius: 15%;
+}
+
+.noTagButton {
+    position: absolute;
+    left: 300px;
+}
+
+.delTaskButton {
+    position: absolute;
+    left: 420px;
+}
+
+.header {
+    position: absolute;
+    left: 750px;
+    top: 80px;
+}
+
+.task {
+    position: absolute;
+    left: 750px;
+    top: 200px;
+}
+
+.addTask {
+    position: absolute;
+    top: 200px;
+    left: 930px;
+}
+.delAll {
+    position: absolute;
+    top: 200px;
+    left: 1050px;
+}
+.taskList {
+    position: absolute;
+    top: 250px;
+    left: 700px;
+}
